@@ -1,0 +1,22 @@
+{
+    "nameRegex": "^[\\w|]+([-|.|@|_][\\w]*)*\\s*([\\w]+([-|.|@|_][\\w]*)*\\s*)*$",
+    "nameError": "Not A Valid Name",
+    "accountNumberRegex": "^\\d{6,15}$",
+    "accountNumberError": "Not A Valid Account Number",
+    "emailRegex": "^([a-zA-Z\\d\\.-]+)@([a-z\\d-]+)\\.([a-z]{2,8})(\\.[a-z]{2,8})?$",
+    "emailError": "Not A Valid Email",
+    "msisdnRegex": "^([0][\\d]{9})|([+]{0,1}\\d{10,15})$",
+    "msisdnError": "Not A Valid Phone Number",
+    "amountRegex": "^\\d+(,\\d{3})*[.]{0,1}\\d{0,2}$",
+    "amountError": "Not A Valid Amount",
+    "varcharRegex": "^[^*$#]+$",
+    "varcharError": "Must Not Contain * $ or #",
+    "numberRegex": "^\\d*$",
+    "numberError": "Not A Valid Number",
+    "domainRegex": "^([a-z\\d-]+)\\.([a-z]{2,8})(\\.[a-z]{2,8})?$",
+    "domainSample": "Eg. mesika.org",
+    "domainError": "Not A Valid Domain",
+    "selectError": "Not A Valid Option", 
+    "requiredFieldError": "Field Is Required",
+    "passwordsMismatchError": "Passwords Do Not Match, Please Try Again"
+}

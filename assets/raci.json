@@ -1,0 +1,48 @@
+{
+    "status": 200,
+    "reason": "Successfully retrieved raci",
+    "raci": [
+        {
+            "gender": "female",
+            "position": "Account Manager",
+            "full_name": "Miriam Aidoo-Mensah",
+            "msisdn": "+233201106395",
+            "email": "mamensah@mesika.org"
+        },
+        {
+            "gender": "female",
+            "position": "Business Customer Experience",
+            "full_name": "Diana Lako",
+            "msisdn": "+233302907497",
+            "email": "adbsupport@mesika.org"
+        },
+        {
+            "gender": "male",
+            "position": "Tech Customer Experience",
+            "full_name": "Samuel Amoako",
+            "msisdn": "+233302907497",
+            "email": "adbsupport@mesika.org"
+        },
+        {
+            "gender": "male",
+            "position": "Head of Finance",
+            "full_name": "Michael Kesseh",
+            "msisdn": "+233240418588",
+            "email": "mkesseh@mesika.org"
+        },
+        {
+            "gender": "female",
+            "position": "Chief Technology Officer",
+            "full_name": "Miriam Aidoo-Mensah",
+            "msisdn": "+233201106395",
+            "email": "mamensah@mesika.org"
+        },
+        {
+            "gender": "female",
+            "position": "Chief Operations Officer",
+            "full_name": "Wendy Takyiwaa Dua",
+            "msisdn": "+233509098534",
+            "email": "ytdua@mesika.org"
+        }
+    ]
+}

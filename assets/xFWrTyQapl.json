@@ -1,0 +1,10 @@
+{
+    "setTimeoutCount": "2",
+    "setTimeoutMilliSeconds": "50000",
+    "fqdn": "https://fagon.pythonanywhere.com/",
+    "login": "admin-api/authentication/",
+    "password_reset": "admin-api/reset-password/",
+    "verify_admin_password": "admin-api/verify-token/",
+    "asoremma": "admin-api/profile/asoremma/",
+    "asoreba": "admin-api/profile/asoreba/"
+}
